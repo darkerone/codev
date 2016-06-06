@@ -504,3 +504,13 @@ ul.submenu ul {
    cursor: pointer;
    background-image: url("images/b_export_xls.gif");
 }
+
+.error_container
+{
+    margin: 10px 0px;
+}
+
+.success_container
+{
+    margin: 10px 0px;
+}
